@@ -99,5 +99,5 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 👨‍💻 Author
 
-Developed by **[MahdiAttarzadeh]**  
+Developed by **MahdiAttarzadeh**  
 📬 Feel free to open issues or suggestions to improve performance.
